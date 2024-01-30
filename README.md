@@ -8,9 +8,11 @@ I have also done some work with Maya and Aseprite.
 
 I love to learn new techniques, learn about new software and develop my languages skills in coding.
 
-One great thing about me is I am not afraid to try new things to develop my skills in all areas of video game development.
+One great thing about me is, I am not afraid to try new things. It helps me develop my skills in all areas of video game development. 
+I have tried modeling, pixel art, codeing and hope to try more.
 
-In my free time, I really enjoy the board game society I go to everythursday and I love to play games with friends online.
+In my free time, I really enjoy the board game society I go to almost every tuesday and I love to play games with friends online.
+
 Meeting people and talking about games inspires me to learn and create games.
 
 This is my first real look into Github and I hope to post more projects on here in the future.
