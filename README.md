@@ -1,7 +1,7 @@
 Welcome to my ReadMe, My name is Sean and the main thing about me is I love video games.
 
 Im currently studying at Abertay university on a Computer games technology course.
-I have previously studying at dundee and angus college.
+I have previously studied a HND in computer game development at Dundee and Angus college.
 
 I have learned Java, some C# and am currently learning C++. 
 I have also done some work with Maya and Aseprite.
