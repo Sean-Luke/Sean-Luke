@@ -6,7 +6,7 @@ I have previously studied a HND in computer game development at Dundee and Angus
 I have learned Java, some C# and am currently learning C++. 
 I have also done some work with Maya and Aseprite.
 
-I love to learn new techniques to develope video games, learn about new software and languages.
+I love to learn new techniques, learn about new software and develop my languages skills in coding.
 
 One great thing about me is I am not afraid to try new things to develop my skills in all areas of video game development.
 
